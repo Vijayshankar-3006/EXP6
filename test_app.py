@@ -19,4 +19,4 @@ def test_add_mixed():
 
 def test_output_type():
     result = add(10, 5)
-    assert isinstance(result, int)
+    assert isinstance(result, int) 
